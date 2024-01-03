@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 <img alt="openBalena" src="docs/assets/openbalena-logo.svg" height="82">
 
 ---
